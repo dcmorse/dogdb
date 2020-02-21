@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.launchcode.dogdb"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "dogdb",
+    "packageName": "org.launchcode.dogdb",
+    "packageFolder": "org/launchcode/dogdb",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzJiZjM1YzE0YWRkN2Q3ODZlOGRlYWUzNTE5MDhlMTM2Mjc3ZTg2MTBhMjllYTQ1M2FiNGI1Y2E3ZjgzOWI5MDc3NDJjYmMwMjc1ZWNiYzM3OTFlMGUyOTAzNjJhMjM0MWUxMjNmYWVmMmYxYTdhMTVjNmEwNzU4NWIzMzM4M2E=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1582248313243,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
