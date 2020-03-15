@@ -1,0 +1,6 @@
+entity Cat {
+	name String
+}
+relationship ManyToOne {
+  Cat{user} to User
+}
